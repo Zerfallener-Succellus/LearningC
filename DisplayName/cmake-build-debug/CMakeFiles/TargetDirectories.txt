@@ -1,0 +1,3 @@
+C:/Users/Pedro/C/Clearn/DisplayName/cmake-build-debug/CMakeFiles/DisplayName.dir
+C:/Users/Pedro/C/Clearn/DisplayName/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Pedro/C/Clearn/DisplayName/cmake-build-debug/CMakeFiles/rebuild_cache.dir

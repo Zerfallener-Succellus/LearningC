@@ -1,0 +1,9 @@
+# ninja log v6
+3	66	7506319751908450	CMakeFiles/OurFirstProgram.dir/main.c.obj	d0f4d870e84f3ad7
+67	180	7506319752541781	OurFirstProgram.exe	254a1d52f1cd16c8
+6	65	7506319893585195	CMakeFiles/OurFirstProgram.dir/main.c.obj	d0f4d870e84f3ad7
+65	147	7506319894178915	OurFirstProgram.exe	254a1d52f1cd16c8
+5	65	7506320308966287	CMakeFiles/OurFirstProgram.dir/main.c.obj	d0f4d870e84f3ad7
+66	149	7506320309569707	OurFirstProgram.exe	254a1d52f1cd16c8
+6	76	7506325525850691	CMakeFiles/OurFirstProgram.dir/main.c.obj	d0f4d870e84f3ad7
+76	185	7506325526551692	OurFirstProgram.exe	254a1d52f1cd16c8
